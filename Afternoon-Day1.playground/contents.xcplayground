@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='conditional'/>
+        <page name='variable'/>
+        <page name='conditional 2'/>
+        <page name='conditional 3'/>
+        <page name='looping'/>
+        <page name='collections'/>
+    </pages>
+</playground>
